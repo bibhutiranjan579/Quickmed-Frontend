@@ -1,0 +1,34 @@
+Jeff
+
+Videos
+https://www.youtube.com/watch?v=O3BUHwfHf84
+https://www.youtube.com/watch?v=CLG0ha_a0q8
+https://www.youtube.com/watch?v=_7UQPve99r4
+https://www.youtube.com/watch?v=Oe421EPjeBE
+
+Documents
+https://www.w3schools.com/REACT/DEFAULT.ASP
+https://www.w3schools.com/mongodb/
+https://www.mongodb.com/resources/languages/mern-stack-tutorial
+
+Harman
+
+Videos
+https://youtu.be/K4_J3ShsUOY?si=eKWBP0dg5n26VvDl
+https://youtube.com/playlist?list=PLuHGmgpyHfRw0wBGN8knxsJsMi74r34zw&si=_Vtra_Fm-WW0MUo8
+https://www.youtube.com/watch?v=eRTTlS0zaW8&t=11170s
+
+Documents
+https://jsonformatter.org/json-stringify-online
+https://cloudinary.com/
+
+chatgpt
+file name: userController.js
+"Lets do this "Handle Errors from Cloudinary"
+
+Code Notes
+https://www.w3schools.com/js/js_errors.asp
+https://www.w3schools.com/js/js_async.asp
+https://www.w3schools.com/js/js_if_else.asp
+https://www.w3schools.com/js/js_object_definition.asp
+
